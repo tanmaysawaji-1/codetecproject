@@ -11,8 +11,7 @@ It demonstrates advanced UI animations, responsive layout, and interactive eleme
 
 ## 📌 Demo
 
-🔗 **Live Demo:** *(Add your GitHub Pages or deployed link here)*  
-`https://tanmaysawaji-1.github.io/codetecproject`
+🔗 **Live Demo:** https://github.com/tanmaysawaji-1/codetecproject
 
 ---
 
