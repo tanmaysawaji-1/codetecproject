@@ -1,21 +1,46 @@
-# PORTFOLIO-WERSITE-WITH-ADVANECD-ANIMATION_1
+# Codetec Project — Frontend Web Application
 
-**COMPANY**:CODTECH IT SOLUTIONS
+## 🚀 About The Project
 
-**NAME**:TANMAY SUBHASH SAWAJI
+**Codetec Project** is a portfolio-style frontend web application built using **HTML, CSS & JavaScript**.  
+It demonstrates advanced UI animations, responsive layout, and interactive elements to showcase content like images, profile details, project sections, and more.
 
-**INTERN ID**:CT08FVN
+🛠️ This project was completed as part of the **Codtech IT Solutions** internship program.
 
-**DOMAIN**:Frontend Web Development
+---
 
-**BATCH DURATION**: December 25th, 2024 --- January 25th, 2025.
+## 📌 Demo
 
-**MENTOR NAME**:Neela Santhosh Kumar
+🔗 **Live Demo:** *(Add your GitHub Pages or deployed link here)*  
+`https://tanmaysawaji-1.github.io/codetecproject`
 
-**OUTPUT OF THE TASK**:![Image](https://github.com/user-attachments/assets/5ceec6b6-4ada-47c7-8c53-a6439c41db88)
+---
 
-![Image](https://github.com/user-attachments/assets/07cee746-aa20-4948-87ca-0d01bb4ed3c1)
 
-![Image](https://github.com/user-attachments/assets/42bfca5c-b099-4c74-9143-302ef073eec8)
+## 🧠 Features
 
-![Image](https://github.com/user-attachments/assets/bdb3d6af-f58f-4dd2-85fd-8f9dc3be3f73)
+✅ Fully responsive HTML layout  
+✅ CSS animations and transitions  
+✅ Navigation and profile sections  
+✅ Projects gallery  
+✅ Uses clean structured code
+
+---
+
+## 🛠️ Tech Stack
+
+This project uses the following technologies:
+
+- **HTML5**
+- **CSS3**
+- **JavaScript**
+
+> Languages detected:  
+> • HTML — 48.9%  
+> • CSS — 48.6%  
+> • JavaScript — 2.5% :contentReference[oaicite:1]{index=1}
+
+---
+
+
+
